@@ -54,3 +54,9 @@ The final model architecture combines the best of all worlds:
    jupyter notebook deep_learning_pr1.ipynb
    ```
    *Note: All markdown explanations and visualizations are embedded directly in the notebook!*
+
+## 🎥 Video Demonstration
+You can watch the full explanation and demonstration of this project here: [Video Link](https://drive.google.com/drive/home)
+
+## 👨‍💻 Author
+**Parth Bhagat**
