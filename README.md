@@ -56,7 +56,7 @@ The final model architecture combines the best of all worlds:
    *Note: All markdown explanations and visualizations are embedded directly in the notebook!*
 
 ## 🎥 Video Demonstration
-You can watch the full explanation and demonstration of this project here: [Video Link](https://drive.google.com/drive/home)
+You can watch the full explanation and demonstration of this project here: [Video Link](https://drive.google.com/file/d/150N4gB7IYxcOq9GSF2p7Pv-yp9MlqQct/view?usp=sharing)
 
 ## 👨‍💻 Author
 **Parth Bhagat**
